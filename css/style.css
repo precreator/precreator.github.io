@@ -1,0 +1,89 @@
+body{ background-color:#f4f4f4;
+color:#555555;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+font-size:19px ;
+font-weight: normal;
+line-height: 1.6em;
+margin:0;}
+* {
+  box-sizing: border-box;
+}
+h3{color: #000;
+
+}
+.header{
+  padding: 80px;
+  text-align: center;
+  background-image: url(../images/download\ \(1\).jpg);
+  color:rgba(178, 34, 34, 0.822);
+  font-family: cursive;
+}
+.header h1 {
+  font-size: 40px;
+}
+.sofar{
+  margin-top: 90px;
+}
+
+.navbar a{
+  display: block;
+  color: white;
+  text-align: center;
+  
+  text-decoration: none;
+  float: right;
+  margin:15px;
+  padding: 15px;
+}
+.navbar{
+  overflow: hidden;
+  background-color: #333;
+ 
+}
+.navbar a:hover {
+  background-color:rgb(85, 4, 4) ;
+    color:white;}
+    .into{
+      margin-top: 80px;
+    }
+    
+    img{ 
+    height: auto;
+    width:100%
+    }
+    .welcome{
+      margin-bottom: 90px;
+      color: firebrick;
+    }
+    .image-journey{
+      width: 350px;
+      height: 550px;
+      margin-left: 10px;
+      
+    }
+    .sidebar{padding-top: 70px;
+
+    }
+    .gif{
+      height: 240px;
+      width: 350px;
+    }
+    .footer{
+      float:right;
+      
+    }
+    .clr{ clear: both;}
+     /*About stying*/
+     h1{color: maroon;
+      
+     }
+     .about{
+      text-align:center;
+
+     }
+     .nazor{
+       margin-top: 30px;
+     }
+
+    
+    
